@@ -1,0 +1,3 @@
+"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
+"access_afip_wsfex_error_manager","afip.wsfex_error.manager","model_afip_wsfex_error","group_wsafip_fex_admin",1,1,1,1
+"access_afip_wsfex_error_user","afip.wsfex_error.user","model_afip_wsfex_error","group_wsafip_fex_user",1,0,0,0
